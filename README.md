@@ -1,6 +1,6 @@
 # Advent of Code
 
-This is a place for me to post my codes for :sparkles::christmas_tree: <code>Advent of Code<\code> :christmas_tree::sparkles:
+This is a place for me to post my codes for :sparkles::christmas_tree: <code>Advent of Code</code> :christmas_tree::sparkles:
 
 **Advent of Code** is a programming version of advent calendars. I recently got introduced to this event and felt hooked immediately since I always want to learn and improve my skills through challenges. It's also a great way to countdown to Christmas so it's a win-win for me :D
 
