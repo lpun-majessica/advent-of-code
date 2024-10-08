@@ -1,6 +1,6 @@
 # Advent of Code 2022
 
-## ***AoC 2022 summary:* Achieved `42*` out of `50*`**
+## ***AoC 2022 summary:* Achieved `43*` out of `50*`**
 - [day-01](day-01.ipynb) [`**`]
 - [day-02](day-02.ipynb) [`**`]
 - [day-03](day-03.ipynb) [`**`]
@@ -25,4 +25,4 @@
 - [day-22](day-22.ipynb) [`* `]
 - [day-23](day-23.ipynb) [`**`]
 - [day-24](day-24.ipynb) [`**`]
-- [day-25](day-25.ipynb) [`  `]
+- [day-25](day-25.ipynb) [`* `]
