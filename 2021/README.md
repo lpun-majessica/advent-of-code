@@ -1,6 +1,6 @@
 # Advent of Code 2021
 
-## ***AoC 2021 summary:* Achieved `24*` out of `50*`**
+## ***AoC 2021 summary:* Achieved `26*` out of `50*`**
 - [day-01](day-01/day-01.ipynb) [`**`]
 - [day-02](day-02/day-02.ipynb) [`**`]
 - [day-03](day-03/day-03.ipynb) [`**`]
@@ -13,7 +13,7 @@
 - [day-10](day-10/day-10.ipynb) [`**`]
 - [day-11](day-11/day-11.ipynb) [`**`]
 - [day-12](day-12/day-12.ipynb) [`**`]
-- [day-13](day-13/day-13.ipynb) [`  `]
+- [day-13](day-13/day-13.ipynb) [`**`]
 - [day-14](day-14/day-14.ipynb) [`  `]
 - [day-15](day-15/day-15.ipynb) [`  `]
 - [day-16](day-16/day-16.ipynb) [`  `]
