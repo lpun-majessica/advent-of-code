@@ -5,7 +5,7 @@
 - [day-02](day-02/day-02.ipynb) [`**`]
 - [day-03](day-03/day-03.ipynb) [`**`]
 - [day-04](day-04/day-04.ipynb) [`**`]
-- [day-05](day-05/day-05.ipynb) [`  `]
+- [day-05](day-05/day-05.ipynb) [`**`]
 - [day-06](day-06/day-06.ipynb) [`  `]
 - [day-07](day-07/day-07.ipynb) [`  `]
 - [day-08](day-08/day-08.ipynb) [`  `]
