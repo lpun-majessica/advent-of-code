@@ -1,18 +1,3 @@
-# ---
-# jupyter:
-#   jupytext:
-#     formats: ipynb,py:nomarker
-#     text_representation:
-#       extension: .py
-#       format_name: nomarker
-#       format_version: '1.0'
-#       jupytext_version: 1.16.3
-#   kernelspec:
-#     display_name: Python 3 (ipykernel)
-#     language: python
-#     name: python3
-# ---
-
 import requests
 from bs4 import BeautifulSoup
 from collections import defaultdict
@@ -64,5 +49,5 @@ class Puzzle:
             data={"level": part, "answer": answer},
             cookies={"session": self.session_cookie},
         )
-        response = BeautifulSoup(r.text).article.stripped_strings
+        response = BeautifulSoup(r.text, 'html.parser').article.stripped_strings
         print(" ".join(list(response)).replace("  ", " "))
