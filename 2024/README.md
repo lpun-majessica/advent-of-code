@@ -1,6 +1,6 @@
 # Advent of Code 2024
 
-## ***AoC 2024 summary:* Achieved `45*` out of `50*`**
+## ***AoC 2024 summary:* Achieved `46*` out of `50*`**
 - [day-01](day-01/day-01.ipynb) [`**`]
 - [day-02](day-02/day-02.ipynb) [`**`]
 - [day-03](day-03/day-03.ipynb) [`**`]
@@ -20,7 +20,7 @@
 - [day-17](day-17/day-17.ipynb) [`**`]
 - [day-18](day-18/day-18.ipynb) [`**`]
 - [day-19](day-19/day-19.ipynb) [`**`]
-- [day-20](day-20/day-20.ipynb) [`* `]
+- [day-20](day-20/day-20.ipynb) [`**`]
 - [day-21](day-21/day-21.ipynb) [`  `]
 - [day-22](day-22/day-22.ipynb) [`**`]
 - [day-23](day-23/day-23.ipynb) [`**`]
